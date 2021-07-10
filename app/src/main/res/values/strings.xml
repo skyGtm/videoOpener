@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">videoOpener</string>
+    <string name="enter_video_url">Enter Video URL</string>
+    <string name="clear_text">Clear</string>
+</resources>
