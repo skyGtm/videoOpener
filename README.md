@@ -1,5 +1,5 @@
 ## videoOpener
-This app needs direct streamable Video URL to work. You may find videos at [Archive.org](Archive.org)
+This app needs direct streamable Video URL to work. You may find videos at [Internet Archive](https://archive.org/details/movies)
 
 ### Motivation
 
@@ -10,4 +10,4 @@ This app needs direct streamable Video URL to work. You may find videos at [Arch
 ### Features
 - [x] Direct Paste Contents of Clipboard
 - [x] Clear Clipboard
-- [x] Prompts to open a video player
+- [x] Prompts to open a video player of your choice
